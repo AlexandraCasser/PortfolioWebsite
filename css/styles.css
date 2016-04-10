@@ -2,6 +2,52 @@ body {
 	/*background-color: blue*/
 	margin: 0 auto;
 	text-align: center;
-	font-family: 'Quattrocento', serif;
+	font-family: 'Monda', sans-serif;
 	/*font-family: 'Cinzel Decorative', cursive;*/
 }
+
+header {
+  height: 100vh; 
+  /* sets height to browser height */
+  top: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  background: url("images/homestead.jpg");
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  font-color: white;
+  /*opacity: 0.6;*/
+}
+
+table {
+	margin: 0 auto;
+	text-align: center;
+}
+
+th, tr {
+    padding: 100px;
+}
+
+#introDiv {
+	vertical-align: middle;
+	font-size: 3rem;
+	font color: white;
+}
+
+#summary {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+/*#contact {
+  background: url('images/Farm-Wallpaper.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}*/
