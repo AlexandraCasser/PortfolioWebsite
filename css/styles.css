@@ -15,7 +15,7 @@ header {
   padding: 0;
   text-align: center;
   width: 100%;
-  background: url("images/homestead.jpg");
+  background: url("images/farm_at_night.jpg");
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
@@ -51,3 +51,19 @@ th, tr {
   background-attachment: fixed;
   text-align: center;
 }*/
+
+#skills {
+	font-weight: 900;
+	font-weight: bolder;
+}
+
+#skillsDiv {
+	background-color: #D3D3D3;
+	border-radius: 25px;
+	width: 60%;
+	margin: 0 auto;
+}
+
+#copyright {
+	font-size: .75rem;
+}
